@@ -8,10 +8,10 @@ clean :
 build :
 	docker build --rm -t kylagold .
 
-run : 
+run start : 
 	-@docker stop kylagold
 	-@docker rm kylagold
-	docker run --name kylagold -p 8005:8000 --rm -t -v $(CURDIR):/kylagold kylagold
+	docker run --name kylagold -p 8005:8000 --rm -t -v $(CURDIR):/kylagold kylagold &
 
 shell :
 	docker run --rm -t -i -v $(CURDIR):/kylagold kylagold /bin/bash -l
