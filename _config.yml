@@ -1,0 +1,30 @@
+# Site settings
+title: Kyla Gold - Gay Wedding Planning & Design
+email: kyla@kylagold.com 
+url: https://www.kylagold.com
+description: "Kyla Gold - Gay Wedding Planning & Design"
+phone: "(415) 646-6123"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#c1ad73' #D4AF37
+  brand-heading: '#c1ad73'
+
+font:
+  brand-heading: "poiret-one, sans-serif"
+  #contact: "alice, serif"
+  contact: "eb-garamond, sans-serif"
+  intro-text: "meddon, cursive"
+
+# Footer settings
+footer: "Kyla Childress"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  title: "pinterest"
+  url: "http://pinterst.com/kylagold"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
