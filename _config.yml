@@ -15,7 +15,8 @@ font:
   brand-heading: "poiret-one, sans-serif"
   #contact: "alice, serif"
   contact: "eb-garamond, sans-serif"
-  intro-text: "meddon, cursive"
+  #intro-text: "meddon, cursive"
+  intro-text: "eb-garmond, sans-serif"
 
 # Footer settings
 footer: "Kyla Childress"
