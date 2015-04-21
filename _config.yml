@@ -12,11 +12,11 @@ color:
   brand-heading: '#c1ad73'
 
 font:
-  brand-heading: "poiret-one, sans-serif"
+  brand-heading: "Rambla, sans-serif"
   #contact: "alice, serif"
-  contact: "eb-garamond, sans-serif"
+  contact: "Rambla, sans-serif"
   #intro-text: "meddon, cursive"
-  intro-text: "eb-garmond, sans-serif"
+  intro-text: "Rambla, sans-serif"
 
 # Footer settings
 footer: "Kyla Childress"
